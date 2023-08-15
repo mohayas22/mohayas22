@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasir Shaikh</h1>
 <h3 align="center">A Perspicacious Data Science Student</h3>
 
+- I am currently working at TechCiti.pvt.ltd **Pregnancy Risk Prediction**
+
 - 🌱 I’m currently learning **Frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohayas22](https://github.com/mohayas22)
