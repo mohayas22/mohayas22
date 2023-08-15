@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasir</h1>
+<h1 align="center">Hi 👋, I'm Yasir Shaikh</h1>
 <h3 align="center">A Perspicacious Data Science Student</h3>
 
 - 🌱 I’m currently learning **Frontend development**
